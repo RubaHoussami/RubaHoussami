@@ -2,13 +2,14 @@
   
 # Hello, I'm Ruba El Houssami! 😄
 
-## 🌱 An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon 🌱
+## An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon 🌱
 
 </div>
 
-- 🔭 I'm currently a software engineering intern at The European Organization for Nuclear Research CERN, working on the CMS Patatrack Pixel Reconstruction Software!
-- ⚡ I'm looking to collaborate on innovative projects that build my skills.
-- 📫 You can reach me through: [Email](mailto:rhe34@mail.aub.edu)
+
+- 👩‍💻 I'm currently a software engineering intern at The European Organization for Nuclear Research CERN, working on the CMS Patatrack Pixel Reconstruction Software!
+- 🤝 I'm looking to collaborate on innovative projects that build my skills.
+- 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu)
 
 <!--
 Here are some ideas to get you started:
