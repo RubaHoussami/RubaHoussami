@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&theme=white)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=compact&theme=white)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RubaHoussami&theme=github-light)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RubaHoussami&theme=white)
