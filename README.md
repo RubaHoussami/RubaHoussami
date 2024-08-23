@@ -171,7 +171,7 @@
   </a>
   <a href="https://julialang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Julia_prog_language.svg/600px-Julia_prog_language.svg.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Julia_Programming_Language_Logo.svg"
       alt="Julia"
       width="40"
       height="40"
@@ -187,7 +187,7 @@
   </a>
   <a href="https://riscv.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/3/3e/RISC-V_logo.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0d/RISC-V_logo.svg"
       alt="RISC-V"
       width="40"
       height="40"
@@ -213,7 +213,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
       alt="Postman"
-      width="60"
+      width="80"
       height="40"
     />
   </a>
@@ -243,19 +243,11 @@
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/04/Wireshark_icon.svg"
       alt="Wireshark"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"
-    alt="PowerShell"
-    width="40"
-    height="40"
-  />
   </a>
 </p>
 
