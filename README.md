@@ -213,7 +213,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
       alt="Postman"
-      width="40"
+      width="60"
       height="40"
     />
   </a>
@@ -237,17 +237,25 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
       alt="Flask"
-      width="40"
+      width="60"
       height="40"
     />
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg"
-      alt="Flask"
+      alt="Wireshark"
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"
+    alt="PowerShell"
+    width="40"
+    height="40"
+  />
   </a>
 </p>
 
