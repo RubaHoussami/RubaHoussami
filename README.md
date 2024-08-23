@@ -36,15 +36,34 @@
       width="40"
       height="40"
     />
-  </a>
-    <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Julia_Programming_Language_Logo.svg"
-      alt="Julia"
-      width="40"
-      height="40"
-    />
-  </a>
+  <a
+  href="https://www.wireshark.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://www.wireshark.org/assets/img/wireshark-logo.png"
+    alt="wireshark"
+    width="60"
+    height="40"
+  />
+</a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.svgrepo.com/show/376330/julia.svg"
+    alt="julia"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.svgrepo.com/show/349423/julia.svg"
+    alt="julia"
+    width="40"
+    height="40"
+  />
+</a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"
