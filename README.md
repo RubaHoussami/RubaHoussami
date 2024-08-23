@@ -13,18 +13,18 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="C++"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="Python"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="Python"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="C++"
       width="40"
       height="40"
     />
@@ -37,10 +37,61 @@
       height="40"
     />
   </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+    <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Julia_Programming_Language_Logo.svg"
+      alt="Julia"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"
+      alt="MATLAB"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://smlfamily.github.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sml.svg"
+      alt="Standard ML"
+      width="40"
+      height="40"
+    />
+  </a>
+<a href="https://riscv.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" 
+    alt="riscv" 
+    width="40" 
+    height="40"
+    />
+</a>
+  <a
+    href="https://ieeexplore.ieee.org/document/10458102"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg"
+      alt="Verilog"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="JavaScript"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="HTML5"
       width="40"
       height="40"
     />
@@ -53,38 +104,10 @@
       height="40"
     />
   </a>
-  <a href="https://smlfamily.github.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sml.svg"
-      alt="Standard ML"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="HTML5"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
       alt="LaTeX"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://ieeexplore.ieee.org/document/10458102"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg"
-      alt="Verilog"
       width="40"
       height="40"
     />
@@ -165,30 +188,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="Figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Julia_Programming_Language_Logo.svg"
-      alt="Julia"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"
-      alt="MATLAB"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://riscv.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/0d/RISC-V_logo.svg"
-      alt="RISC-V"
       width="40"
       height="40"
     />
