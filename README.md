@@ -9,7 +9,7 @@
 
 - 👩‍💻 I'm currently a software engineering intern at The European Organization for Nuclear Research CERN, working on the CMS Patatrack Pixel Reconstruction Software!
 - 🤝 I'm looking to collaborate on innovative projects that build my skills.
-- 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu)
+- 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu) or <a href="https://www.linkedin.com/in/ruba-houssami/" target="_blank" style="color: blue; text-decoration: none" >LinkedIn</a>
 
 <h3 align="left">🛠️ What I use:</h3>
 
