@@ -50,7 +50,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="60" height="40"/>
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="60" height="40"/>
 </a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -69,10 +69,10 @@
 <h4 align="left">Data Science and Analysis:</h4>
 <p align="left">
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas "width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas "width="60" height="40"/>
 </a>
 </p>
 
@@ -105,17 +105,17 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="90" height="40"/>
 </a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer">
   <img src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="Slack" width="40" height="40"/>
 </a>
 </p>
 
-<h4 align="left">Networking:</h4>
+<h4 align="left">Cybersecurity:</h4>
 <p align="left">
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="wireshark" width="60" height="40"/>
+  <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="wireshark" width="70" height="40"/>
 </a>
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="40" height="40" />
@@ -141,6 +141,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
 </p>
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
