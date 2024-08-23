@@ -66,13 +66,19 @@
 </a>
 </p>
 
-<h4 align="left">Data Science and Analysis:</h4>
+<h4 align="left">Data Science and Machine Learning:</h4>
 <p align="left">
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="40"/>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas "width="60" height="40"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
+</a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40" height="40" />
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
 </a>
 </p>
 
@@ -105,7 +111,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="90" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="100" height="40"/>
 </a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer">
   <img src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="Slack" width="40" height="40"/>
@@ -142,7 +148,7 @@
 </a>
 </p>
 
-
+</br>
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubaHoussami&show_icons=true&locale=en&layout=compact"alt="RubaHoussami"/>
