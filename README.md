@@ -34,10 +34,10 @@
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sml.svg" alt="Standard ML" width="40" height="40"/>
 </a>
 <a href="https://riscv.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="riscv" width="40" height="40"/>
+  <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="riscv" width="60" height="40"/>
 </a>
 <a href="https://ieeexplore.ieee.org/document/10458102" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="60" height="40"/>
 </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
