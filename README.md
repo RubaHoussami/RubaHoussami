@@ -5,7 +5,7 @@
 ## An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon 🌱
 
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=7F8000&style=flat" alt="RubaHoussami" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=F7DC6F&style=flat" alt="RubaHoussami" /> </p>
 
 - 👩‍💻 I'm currently a software engineering intern at The European Organization for Nuclear Research CERN, working on the CMS Patatrack Pixel Reconstruction Software!
 - 🤝 I'm looking to collaborate on innovative projects that build my skills.
