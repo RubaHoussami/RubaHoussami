@@ -11,7 +11,8 @@
 - 🤝 I'm looking to collaborate on innovative projects that build my skills.
 - 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu)
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ What I use:</h3>
+<h4 align="left">Programming Languages:</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -79,10 +80,47 @@
       height="40"
     />
   </a>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+
+<p align="left">
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
+      alt="LaTeX"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+</p>
+  
+  <h4 align="left">Web Development:</h4>
+  <p align="left">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
+      alt="Flask"
+      width="60"
+      height="40"
+    />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" 
+      alt="FastAPI" 
+      width="40" 
+      height="40" />
+  </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="JavaScript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="React"
       width="40"
       height="40"
     />
@@ -103,14 +141,10 @@
       height="40"
     />
   </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
-      alt="Flask"
-      width="60"
-      height="40"
-    />
-  </a>
+</p>
+
+<h4 align="left">Data Science and Analysis:</h4>
+<p align="left">
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
@@ -127,30 +161,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
-      alt="LaTeX"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="AWS"
-      width="40"
-      height="40"
-    />
-  </a>
+</p>
+
+<h4 align="left">Databases:</h4>
+<p alighn="left>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
@@ -167,18 +181,15 @@
       height="40"
     />
   </a>
+</p>
+
+
+<h4 align="left">Development Tools and Platforms:</h4>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="Git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"
-      alt="Eclipse"
       width="40"
       height="40"
     />
@@ -191,11 +202,27 @@
       height="40"
     />
   </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"
+      alt="Eclipse"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="Figma"
       width="40"
+      height="40"
+    />
+  </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
+      alt="Postman"
+      width="80"
       height="40"
     />
   </a>
@@ -207,14 +234,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"
-      alt="Postman"
-      width="80"
-      height="40"
-    />
-  </a>
+</p>
+
+<h4 align="left">Networking:</h4>
+<p align="left">
   <a
   href="https://www.wireshark.org/"
   target="_blank"
@@ -227,6 +250,32 @@
     height="40"
   />
 </a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="40" height="40" />
+  </a>
+</p>
+
+<h4 align="left">Cloud Platforms and Services:</h4>
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="AWS"
+      width="40"
+      height="40"
+    />
+  </a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1200px-WordPress_logo.svg.png" 
+      alt="WordPress" 
+      width="40" 
+      height="40" 
+      />
+  </a>
+</p>
+
+<h4 align="left">Operating Systems:</h4>
+<p align="left">
 <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
