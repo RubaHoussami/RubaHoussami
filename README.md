@@ -36,29 +36,9 @@
       width="40"
       height="40"
     />
-  <a
-  href="https://www.wireshark.org/"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://www.wireshark.org/assets/img/wireshark-logo.png"
-    alt="wireshark"
-    width="60"
-    height="40"
-  />
-</a>
 <a href="https://julialang.org/" target="_blank" rel="noreferrer">
   <img
     src="https://www.svgrepo.com/show/376330/julia.svg"
-    alt="julia"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.svgrepo.com/show/349423/julia.svg"
     alt="julia"
     width="40"
     height="40"
@@ -123,6 +103,30 @@
       height="40"
     />
   </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
+      alt="Flask"
+      width="60"
+      height="40"
+    />
+  </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
+      alt="NumPy"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
+      alt="Pandas"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
@@ -147,10 +151,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="MySQL"
+      src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+      alt="PostgreSQL"
       width="40"
       height="40"
     />
@@ -187,34 +191,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
-      alt="Windows"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="Linux"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="Figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-      alt="PostgreSQL"
       width="40"
       height="40"
     />
@@ -235,40 +215,51 @@
       height="40"
     />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a
+  href="https://www.wireshark.org/"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://www.wireshark.org/assets/img/wireshark-logo.png"
+    alt="wireshark"
+    width="60"
+    height="40"
+  />
+</a>
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
-      alt="Pandas"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
+      alt="Windows"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
-      alt="NumPy"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"
-      alt="Flask"
-      width="60"
-      height="40"
-    />
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/04/Wireshark_icon.svg"
-      alt="Wireshark"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="Linux"
       width="40"
       height="40"
     />
   </a>
 </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&theme=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=compact&theme=white)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubaHoussami&theme=white)
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=RubaHoussami&show_icons=true&locale=en&layout=compact"
+    alt="RubaHoussami"
+  />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&locale=en"
+    alt="RubaHoussami"
+  />
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RubaHoussami&"
+    alt="RubaHoussami"
+  />
+</p>
