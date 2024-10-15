@@ -2,13 +2,14 @@
   
 # Hello, I'm Ruba El Houssami! 😄
 
-## An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon 🌱
+## An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon 🇱🇧
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=F7DC6F&style=flat" alt="RubaHoussami" /> </p>
 
-- 👩‍💻 I'm currently a software engineering intern at The European Organization for Nuclear Research CERN, working on the CMS Patatrack Pixel Reconstruction Software!
+- 👩‍💻 I'm currently a backend engineer at Adeptech!
 - 🤝 I'm looking to collaborate on innovative projects that build my skills.
+- 🔍 I have worked on the CMS Patatrack Pixel Reconstruction Software at CERN.
 - 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu) or <a href="https://www.linkedin.com/in/ruba-houssami/" target="_blank" style="color: blue; text-decoration: none" >LinkedIn</a>
 </br>
 <h3 align="left">🛠️ What I use:</h3>
