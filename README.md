@@ -2,7 +2,7 @@
   
 # Hello, I'm Ruba El Houssami! 😄
 
-## An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon 🇱🇧
+## An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=F7DC6F&style=flat" alt="RubaHoussami" /> </p>
