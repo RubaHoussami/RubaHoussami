@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=F7DC6F&style=flat" alt="RubaHoussami" /> </p>
 
 - 👩‍💻 I'm currently a backend engineer at Adeptech!
-- 🤝 I'm looking to collaborate on innovative projects that build my skills.
+- 🤝 I'm looking to collaborate on innovative projects that build my skills, especially in the field of Artificial Intelligence.
 - 🔍 I have worked on the CMS Patatrack Pixel Reconstruction Software at CERN.
 - 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu) or <a href="https://www.linkedin.com/in/ruba-houssami/" target="_blank" style="color: blue; text-decoration: none" >LinkedIn</a>
 </br>
