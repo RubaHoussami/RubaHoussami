@@ -10,7 +10,14 @@
 - 👩‍💻 I'm currently a software engineer at Adeptech, building server-side technologies for clients!
 - 🤝 I'm looking to collaborate on innovative projects that build my skills, especially in the field of Artificial Intelligence.
 - 🔍 I have worked on the CMS Patatrack Pixel Reconstruction Software at CERN.
-- 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu) or <a href="https://www.linkedin.com/in/ruba-houssami/" target="_blank" style="color: blue; text-decoration: none" >LinkedIn</a>
+- 📫 You can reach me through [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu).
+
+<h3 align="left">Let's Connect:</h3>
+<p align="left">
+<a href="[https://linkedin.com/in/ruba-houssami](https://www.linkedin.com/in/ruba-houssami/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruba-el-houssami" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/RubaH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruba" height="30" width="40" /></a>
+</p>
+
 </br>
 <h3 align="left">🛠️ What I use:</h3>
 
