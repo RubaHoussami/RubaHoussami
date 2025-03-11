@@ -14,7 +14,7 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ruba-houssami](https://www.linkedin.com/in/ruba-houssami/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruba-el-houssami" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ruba-houssami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-bassam-el-bizri-429a732ab" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/RubaH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruba" height="30" width="40" /></a>
 </p>
 
