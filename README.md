@@ -7,7 +7,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=F7DC6F&style=flat" alt="RubaHoussami" /> </p>
 
-- 👩‍💻 I'm currently a backend engineer at Adeptech!
+- 👩‍💻 I'm currently a software engineer at Adeptech, working on enhancing server-side technologies for clients!
 - 🤝 I'm looking to collaborate on innovative projects that build my skills, especially in the field of Artificial Intelligence.
 - 🔍 I have worked on the CMS Patatrack Pixel Reconstruction Software at CERN.
 - 📫 You can reach me through: [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu) or <a href="https://www.linkedin.com/in/ruba-houssami/" target="_blank" style="color: blue; text-decoration: none" >LinkedIn</a>
@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -132,20 +132,10 @@
 </a>
 </p>
 
-<h4 align="left">Cloud Platforms and Services:</h4>
+<h4 align="left">Cloud Platforms and OS:</h4>
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-</a>
-</p>
-
-<h4 align="left">Operating Systems:</h4>
-<p align="left">
-<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -153,9 +143,7 @@
 </p>
 
 </br>
-<h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=donut-vertical" alt="RubaHoussami"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=compact" alt="RubaHoussami"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&locale=en" alt="RubaHoussami"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubaHoussami&" alt="RubaHoussami"/>
 </p>
