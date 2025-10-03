@@ -17,7 +17,7 @@
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,julia,matlab,csharp,latex" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,java,julia,matlab,latex" />
 </p>
 
 <h4 align="left">Web Development:</h4>
