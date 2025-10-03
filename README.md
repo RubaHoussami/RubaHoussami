@@ -49,7 +49,9 @@
 
 <h4 align="left">Databases:</h4>
 <p alighn="left>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  </a>
 </p>
 
 <h4 align="left">Development Tools and Platforms:</h4>
