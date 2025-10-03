@@ -35,18 +35,10 @@
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 </p>
 
-
 <h4 align="left">Development Tools and Platforms:</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker" />
 </p>
-
-<h4 align="left">Cybersecurity:</h4>
-<p align="left">
-  <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" height="40"/>
-  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="40"/>
-</p>
-
 
 <h4 align="left">Cloud Platforms and OS:</h4>
 <p align="left">
