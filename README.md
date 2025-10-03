@@ -18,7 +18,7 @@
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+@+AUB;AWS+Intern+%7C+Ex+CERN+CMS+Patatrack;AI+%26+Machine+Learning+Enthusiast;Building+useful+things+with+clean+code" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+@+AUB;Working+with+AI+%26+Machine+Learning;Building+useful+things+with+clean+code!" alt="typing intro"/>
   </p>
 </div>
 
@@ -33,7 +33,7 @@
 
 <p align="left">
   <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,windows,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,windows,linux,pytorch,scikitlearn,opencv&perline=18" />
   </a>
 </p>
 
