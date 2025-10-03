@@ -17,7 +17,7 @@
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,java,julia,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,julia,matlab" />
 </p>
 
 <h4 align="left">Web Development:</h4>
@@ -38,7 +38,7 @@
 
 <h4 align="left">Development Tools and Platforms:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,latex,figma,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker" />
 </p>
 
 <h4 align="left">Cybersecurity:</h4>
