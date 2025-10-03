@@ -18,9 +18,15 @@
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0836B3&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+@+AUB;Working+with+AI+%26+Machine+Learning;Building+useful+things+with+clean+code!" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00921DFF&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+@+AUB;Working+with+AI+%26+Machine+Learning;Building+useful+things+with+clean+code!" alt="typing intro"/>
   </p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RubaHoussami/RubaHoussami/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RubaHoussami/RubaHoussami/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RubaHoussami/RubaHoussami/output/github-snake.svg" />
+</picture>
 
 ### About me
 * 🤝 Open to collaborating on **AI/ML** projects that stretch my skills and impact.
