@@ -27,10 +27,20 @@
 
 <h4 align="left">Data Science and Machine Learning:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,scikitlearn&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn&perline=10" />
+
+  <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="32" style="display:block"/>
+  </span>
+
+  <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="32" style="display:block"/>
+  </span>
+
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" height="32" style="display:block"/>
   </span>
+
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="32" style="display:block"/>
   </span>
@@ -39,7 +49,7 @@
 
 <h4 align="left">Databases:</h4>
 <p alighn="left>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
 <h4 align="left">Development Tools and Platforms:</h4>
