@@ -142,3 +142,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
 </p>
+
+</br>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=compact" alt="RubaHoussami"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&locale=en" alt="RubaHoussami"/>
+</p>
