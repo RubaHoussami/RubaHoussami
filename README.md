@@ -39,7 +39,7 @@
 
 <h4 align="left">Databases:</h4>
 <p alighn="left>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
 </p>
 
 <h4 align="left">Development Tools and Platforms:</h4>
