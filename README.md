@@ -16,7 +16,9 @@
 <h3 align="left">🛠️ What I use:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn&perline=10" />
+  <a target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,linux&perline=12" />
+  </a>
 </p>
 
 <p align="left">
@@ -35,20 +37,6 @@
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="32" style="display:block"/>
   </span>
-</p>
-
-<p alighn="left>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux" />
 </p>
 
 </br>
