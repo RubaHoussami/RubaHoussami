@@ -15,17 +15,14 @@
 </br>
 <h3 align="left">🛠️ What I use:</h3>
 
-<h4 align="left">Programming Languages:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,julia,matlab,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,java,julia,matlab,bash" />
 </p>
 
-<h4 align="left">Web Development:</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,flask,fastapi" />
 </p>
 
-<h4 align="left">Data Science and Machine Learning:</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn&perline=10" />
 
@@ -46,20 +43,16 @@
   </span>
 </p>
 
-
-<h4 align="left">Databases:</h4>
 <p alighn="left>
   <a target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
   </a>
 </p>
 
-<h4 align="left">Development Tools and Platforms:</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker" />
 </p>
 
-<h4 align="left">Cloud Platforms and OS:</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,linux" />
 </p>
