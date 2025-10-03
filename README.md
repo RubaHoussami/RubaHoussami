@@ -50,7 +50,7 @@
 <h4 align="left">Databases:</h4>
 <p alighn="left>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
   </a>
 </p>
 
