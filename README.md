@@ -38,7 +38,7 @@
 
 <h4 align="left">Development Tools and Platforms:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,figma,postman,slack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,figma,postman,docker" />
 </p>
 
 <h4 align="left">Cybersecurity:</h4>
