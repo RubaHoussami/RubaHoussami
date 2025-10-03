@@ -17,33 +17,7 @@
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/376330/julia.svg" alt="julia" width="40" height="40"/>
-</a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-</a>
-<a href="https://smlfamily.github.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sml.svg" alt="Standard ML" width="40" height="40"/>
-</a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
-</a>
-<a href="https://riscv.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="riscv" width="60" height="40"/>
-</a>
-<a href="https://ieeexplore.ieee.org/document/10458102" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="60" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,julia,matlab,csharp,sml,latex" />
 </p>
 
 <h4 align="left">Web Development:</h4>
@@ -90,18 +64,13 @@
 
 <h4 align="left">Databases:</h4>
 <p alighn="left>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
 
 <h4 align="left">Development Tools and Platforms:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,figma,postman,slack,intellij" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,figma,postman,slack" />
 </p>
 
 <h4 align="left">Cybersecurity:</h4>
