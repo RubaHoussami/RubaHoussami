@@ -1,27 +1,42 @@
 <div align="center">
-  
-# Hello, I'm Ruba El Houssami! 😄
 
-## An Enthusiastic Computer Engineering Student at the American University of Beirut, Lebanon
+  <h1>Hi, I'm <b>Ruba El Houssami</b> 👋</h1>
 
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=RubaHoussami">
+      <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Visitors&color=yellow&style=flat" alt="Profile views"/>
+    </a>
+    <a href="https://github.com/RubaHoussami?tab=followers">
+      <img src="https://img.shields.io/github/followers/RubaHoussami?logo=github&style=flat" alt="Followers"/>
+    </a>
+    <a href="mailto:rhe34@mail.aub.edu">
+      <img src="https://img.shields.io/badge/Email-rhe34%40mail.aub.edu-red?logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ruba-houssami/">
+      <img src="https://img.shields.io/badge/LinkedIn-ruba--houssami-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+@+AUB;AWS+Intern+%7C+Ex+CERN+CMS+Patatrack;AI+%26+Machine+Learning+Enthusiast;Building+useful+things+with+clean+code" alt="typing intro"/>
+  </p>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=F7DC6F&style=flat" alt="RubaHoussami" /> </p>
 
-- 🤝 I'm looking to collaborate on innovative projects that build my skills, especially in the field of Artificial Intelligence and Machine Learning.
-- 💻 I'm currently interning at AWS.
-- 🔍 I have worked on the CMS Patatrack Pixel Reconstruction Software at CERN.
-- 📫 You can reach me through [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu) or [Linkedin](https://www.linkedin.com/in/ruba-houssami/).
+### About me
+* 🤝 Open to collaborating on **AI/ML** projects that stretch my skills and impact.
+* 💻 Currently interning at **AWS**.
+* 🧪 Previously worked on the **CMS Patatrack Pixel Reconstruction** software at **CERN**.
+* 📫 Reach me at **[rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu)** or on **[LinkedIn](https://www.linkedin.com/in/ruba-houssami/)**.
 
 </br>
-<h3 align="left">🛠️ What I use:</h3>
+<h3 align="left">🛠️ Tech I use:</h3>
 
 <p align="left">
   <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,windows,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,windows,linux&perline=14" />
   </a>
 </p>
 
-<h4 align="left">Data Science and Machine Learning:</h4>
 <p align="left">
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
     <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/icons/numpylogoicon.svg" alt="NumPy" height="32" style="display:block"/>
