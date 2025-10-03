@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm <b>Ruba El Houssami</b> 👋</h1>
+  <h1>Hi, I'm Ruba El Houssami 👋</h1>
 
   <p>
     <a href="https://komarev.com/ghpvc/?username=RubaHoussami">
