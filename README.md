@@ -67,6 +67,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </a>
 </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 <h4 align="left">Data Science and Machine Learning:</h4>
 <p align="left">
@@ -135,16 +136,11 @@
 
 <h4 align="left">Cloud Platforms and OS:</h4>
 <p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux" />
 </p>
 
 </br>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=compact" alt="RubaHoussami"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&locale=en" alt="RubaHoussami"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=compact&hide_border=true" alt="top langs"/>
 </p>
