@@ -17,17 +17,18 @@
 
 <p align="left">
   <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,windows,linux&perline=12" />
   </a>
 </p>
 
+<h4 align="left">Data Science and Machine Learning:</h4>
 <p align="left">
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="32" style="display:block"/>
+    <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/icons/numpylogoicon.svg" alt="NumPy" height="32" style="display:block"/>
   </span>
 
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="32" style="display:block"/>
+    <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" alt="Pandas" height="32" style="display:block"/>
   </span>
 
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
@@ -38,6 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="32" style="display:block"/>
   </span>
 </p>
+
 
 </br>
 <p align="left">
