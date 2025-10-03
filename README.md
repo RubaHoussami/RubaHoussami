@@ -17,7 +17,7 @@
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,java,julia,matlab,latex" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,java,julia,matlab" />
 </p>
 
 <h4 align="left">Web Development:</h4>
@@ -32,24 +32,21 @@
 
 <h4 align="left">Databases:</h4>
 <p alighn="left>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 </p>
 
 
 <h4 align="left">Development Tools and Platforms:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,figma,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,latex,figma,postman,docker" />
 </p>
 
 <h4 align="left">Cybersecurity:</h4>
 <p align="left">
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="wireshark" width="70" height="40"/>
-</a>
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="40" height="40" />
-</a>
+  <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" height="40"/>
+  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" height="40"/>
 </p>
+
 
 <h4 align="left">Cloud Platforms and OS:</h4>
 <p align="left">
