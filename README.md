@@ -16,16 +16,10 @@
 <h3 align="left">🛠️ What I use:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,java,julia,matlab,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,pytorch,scikitlearn&perline=10" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,flask,fastapi" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn&perline=10" />
-
   <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="32" style="display:block"/>
   </span>
