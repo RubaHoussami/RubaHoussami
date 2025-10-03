@@ -17,49 +17,17 @@
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,julia,matlab,csharp,sml,latex" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,julia,matlab,csharp,latex" />
 </p>
 
 <h4 align="left">Web Development:</h4>
 <p align="left">
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="60" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="60" height="40"/>
-</a>
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,flask,fastapi" />
 </p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 <h4 align="left">Data Science and Machine Learning:</h4>
 <p align="left">
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
-</a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40" height="40" />
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="120" height="40" />
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
-</a>
+  <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,scipy,scikitlearn,opencv,matplotlib" />
 </p>
 
 <h4 align="left">Databases:</h4>
