@@ -18,7 +18,7 @@
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+@+AUB;Working+with+AI+%26+Machine+Learning;Building+useful+things+with+clean+code!" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0836B3&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+@+AUB;Working+with+AI+%26+Machine+Learning;Building+useful+things+with+clean+code!" alt="typing intro"/>
   </p>
 </div>
 
@@ -28,33 +28,18 @@
 * 🧪 Previously worked on the **CMS Patatrack Pixel Reconstruction** software at **CERN**.
 * 📫 Reach me at **[rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu)** or on **[LinkedIn](https://www.linkedin.com/in/ruba-houssami/)**.
 
-</br>
-<h3 align="left">🛠️ Tech I use:</h3>
-
+<h3 align="left">Tech I use</h3>
 <p align="left">
   <a target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,windows,linux,pytorch,scikitlearn,opencv&perline=18" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,julia,matlab,js,react,html,css,bash,flask,fastapi,postgres,sqlite,git,github,vscode,pycharm,rider,eclipse,latex,figma,postman,docker,aws,azure,windows,linux,wordpress,pytorch,scikitlearn,opencv&perline=18" />
   </a>
-</p>
-
-<p align="left">
-  <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
-    <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/icons/numpylogoicon.svg" alt="NumPy" height="32" style="display:block"/>
-  </span>
-
-  <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
-    <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" alt="Pandas" height="32" style="display:block"/>
-  </span>
-
-  <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
+  <a>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="40" alt="NumPy"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" height="40" alt="Pandas"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" height="32" style="display:block"/>
-  </span>
-
-  <span style="display:inline-block;background:#0f172a;border-radius:12px;padding:6px;margin-left:6px;vertical-align:middle">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="32" style="display:block"/>
-  </span>
+  </a>
 </p>
-
 
 </br>
 <p align="left">
