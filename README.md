@@ -49,7 +49,7 @@
 
 <h4 align="left">Databases:</h4>
 <p alighn="left>
-  <a >
+  <a target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
   </a>
 </p>
