@@ -8,14 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RubaHoussami&label=Profile%20views&color=F7DC6F&style=flat" alt="RubaHoussami" /> </p>
 
 - 🤝 I'm looking to collaborate on innovative projects that build my skills, especially in the field of Artificial Intelligence and Machine Learning.
+- 💻 I'm currently interning at AWS.
 - 🔍 I have worked on the CMS Patatrack Pixel Reconstruction Software at CERN.
-- 📫 You can reach me through [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu).
-
-<h3 align="left">Let's Connect:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ruba-houssami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-bassam-el-bizri-429a732ab" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/RubaH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruba" height="30" width="40" /></a>
-</p>
+- 📫 You can reach me through [rhe34@mail.aub.edu](mailto:rhe34@mail.aub.edu) or [Linkedin](https://www.linkedin.com/in/ruba-houssami/).
 
 </br>
 <h3 align="left">🛠️ What I use:</h3>
@@ -146,10 +141,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
-</p>
-
-</br>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubaHoussami&layout=compact" alt="RubaHoussami"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RubaHoussami&show_icons=true&locale=en" alt="RubaHoussami"/>
 </p>
